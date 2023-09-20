@@ -3,6 +3,9 @@ This repository contains a script to systematically evaluate performance of all 
 
 The script creates a dataset of 10,000 samples and 200 features. In each iteration, it uses varying percentages of the dataset to train and test the models, ranging from 99.99% to 5%.
 
+<img width="1148" alt="Screenshot 2023-09-20 at 11 57 44" src="https://github.com/muhammad-luay/ModelExploratoryToolkit/assets/62732628/90efb9ed-a5fc-427e-9f2d-bbcc6616e637">
+
+
 ## How to Use
 1. Ensure you have all the necessary libraries installed:
 
